@@ -41,20 +41,20 @@ a) Query
 Result : we can see that the entry 
 
 
-![](/Images/scr1.png?raw=true)
+![](/Images/scr1.png)
 
 
 b) Creating new entry
-![](/Images/scr2.png?raw=true)
+![](/Images/scr2.png)
 
-![](/Images/scr3.png?raw=true)
+![](/Images/scr3.png)
 
 we can see the insert in db
-![](/Images/scr4.png?raw=true)
+![](/Images/scr4.png)
 
 c) we need to provide an id 
-![](/Images/scr5.png?raw=true)
+![](/Images/scr5.png)
 
-![](/Images/scr6.png?raw=true)
+![](/Images/scr6.png)
 
-![](/Images/scr7.png?raw=true)
+![](/Images/scr7.png)
